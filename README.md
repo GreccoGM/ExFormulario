@@ -18,6 +18,6 @@ O projeto foi desenvolvido utilizando as tecnologias e ferramentas:
 ---
 ## 📦 Como baixar o projeto
 ```bash    
-#clonar o projeto de teste da aplicação
+#clonar o projeto de teste do formulario
     git clone https://github.com/GreccoGM/ExFormulario.git
 ```
